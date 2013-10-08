@@ -1,4 +1,4 @@
-com.patsergames.robovm.bindings.gpgs
+Google Play Game Services RoboVM Bindings Attempt
 ====================================
 
 Bindings for google play game services for RoboVM.
